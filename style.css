@@ -56,3 +56,9 @@ form button{
     align-items: center;
     justify-content: center;
 }
+
+ span{
+    display: block;
+    margin-top: 20px;
+    color: #61b752;
+ }
