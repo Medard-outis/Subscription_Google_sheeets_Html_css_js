@@ -48,7 +48,7 @@ form input{
 }
 form button{
     background: #61b752;
-    border: none;
+    border: 0;
     outline: none;
     cursor: pointer;
     padding: 0 20px;
